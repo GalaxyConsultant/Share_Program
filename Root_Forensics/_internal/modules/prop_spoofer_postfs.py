@@ -204,7 +204,7 @@ def create_postfs_script():
             out, _, _ = run(f'"{ADB}" shell getprop {k}')
             result.append(f"{k}: {out}")
 
-        messagebox.showinfo("완료", "\n".join(result) + "\n\n재부팅하면 항상 적용됩니다.")
+        messagebox.showinfo("완료", "재부팅 후 모델명이 변경됩니다.")
 
         if messagebox.askyesno("재부팅", "지금 재부팅할까요?"):
             run(f'"{ADB}" shell su -c "reboot"')
