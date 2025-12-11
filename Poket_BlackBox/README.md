@@ -1,4 +1,6 @@
-다운로드 : https://tinyurl.com/4vkhb2zy
+포켓 블랙박스 다운로드 : https://tinyurl.com/4vkhb2zy
+
+설치 및 사용법 다운로드 : https://tinyurl.com/y33tc48s
 
 
 
