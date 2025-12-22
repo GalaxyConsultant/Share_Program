@@ -2,7 +2,8 @@
 
 ### AppBlock.apk
 아래 링크를 통해 APK 파일을 직접 다운로드할 수 있습니다.
-하지만 MDM(초기화 후 세팅작업)등록을 하셔야 합니다.
+아래 앱은 MDM 이 아닌 인증 후 어플실행을 차단하는 버전의 앱 입니다.
+안드로이드 13 이상은 MDM 으로 공신폰 활성화가 불가합니다.
 
 🔗 **다운로드 링크**  
 https://raw.githubusercontent.com/GalaxyConsultant/Share_Program/main/AppBlock/AppBlock.apk
@@ -14,6 +15,7 @@ StudyGuard는 학습 집중 환경을 만들기 위한 안드로이드 전용 �
 접근성 서비스와 기기 관리자(Device Admin)를 활용하여
 설정, 앱 설치, 스토어 접근 등을 제한함으로써
 아이 또는 학습자가 임의로 환경을 변경하지 못하도록 설계되었습니다.
+(Apk는 일반 설치앱)
 
 ⚠️ 본 앱은 플레이스토어 배포용 앱이 아닙니다.
 APK 직접 설치 방식으로만 사용을 권장합니다.
