@@ -1,3 +1,7 @@
+## 다운로드
+
+[![다운로드](https://img.shields.io/badge/다운로드-OpenClawManager.exe-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/GalaxyConsultant/Share_Program/main/openclaw%20auto%20install/OpenClawManager.exe)
+
 OpenClaw Manager (Windows + WSL)
 
 Windows에서 WSL(Ubuntu) 환경에 OpenClaw + Gemini CLI를 설치하고 실행을 도와주는 간단한 매니저입니다.
