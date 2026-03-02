@@ -1,3 +1,7 @@
+## 📥 Mobile ADB 다운로드
+
+[![Download APK](https://img.shields.io/badge/Download-Mobile_ADB_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/GalaxyConsultant/Share_Program/main/mobileADB/app-release.apk)
+
 # 📱 Mobile ADB
 
 폰 ↔ 폰 무선 ADB 연결을 간편하게 도와주는 모바일 전용 유틸리티
