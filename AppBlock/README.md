@@ -9,9 +9,9 @@
 https://raw.githubusercontent.com/GalaxyConsultant/Share_Program/main/AppBlock/AppBlock.apk
 
 
-📘 StudyGuard (공신폰 모드)
+📘 앱 차단 (공신폰 모드)
 
-StudyGuard는 학습 집중 환경을 만들기 위한 안드로이드 전용 공신폰 앱입니다.
+앱 차단은 학습 집중 환경을 만들기 위한 안드로이드 전용 공신폰 앱입니다.
 접근성 서비스와 기기 관리자(Device Admin)를 활용하여
 설정, 앱 설치, 스토어 접근 등을 제한함으로써
 아이 또는 학습자가 임의로 환경을 변경하지 못하도록 설계되었습니다.
