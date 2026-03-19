@@ -1,0 +1,1 @@
+"C:\Program Files\Android\Android Studio\jbr\bin\keytool.exe" -printcert -jarfile "D:\Program_Public\share\AppBlock\QRVIS.apk" -rfc
